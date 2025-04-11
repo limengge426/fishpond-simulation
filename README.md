@@ -1,7 +1,4 @@
 # fishpond-simulation
-An interactive fishpond simulation game in C, featuring dynamic fish, bait, and hooks.
-## 🎮 项目简介
-
 本项目为鱼塘仿真软件，功能包括：
 - 🐠 小鱼（5 条）从左向右游动。
 - 🪙 鱼饵（5 个）一边下沉一边向左移动。
