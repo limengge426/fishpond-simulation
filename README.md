@@ -12,7 +12,6 @@ An interactive fishpond simulation game in C, featuring dynamic fish, bait, and 
 - 小鱼触碰鱼钩时，程序打印 `lose`，游戏失败。
 - 如果鱼和鱼钩、鱼饵均未接触，程序持续运行。
 
----
 
 ## 🛠️ 技术栈
 
@@ -21,7 +20,6 @@ An interactive fishpond simulation game in C, featuring dynamic fish, bait, and 
 - 编译工具：GCC
 - 操作系统：Linux / Mac（支持 `system("clear")`）
 
----
 
 ## 🧩 功能实现与代码说明
 
